@@ -15,3 +15,5 @@ In order to obtain result dataset this 11 steps were realized:
 9. Assigning activity labels from activity label table
 10.Computing mean values of measurement variables for every combination of subject and activity using function agreggate
 11. Exporting tidy dataset using write.table function in txt format
+
+This repository contains one extra file tidy_data.txt. Just in case it is not possible to read an attachment.
